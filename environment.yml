@@ -75,7 +75,7 @@ dependencies:
   - liblapack=3.8.0
   - libpng=1.6.37
   - libsodium=1.0.16
-  - libssh2=1.8.2
+  - libssh2=1.8.0
   - libuv=1.28.0
   - llvmlite=0.28.0
   - markupsafe=1.1.1
@@ -101,7 +101,7 @@ dependencies:
   - numpy=1.15.4
   - numpydoc=0.9.1
   - openblas=0.3.6
-  - openssl=1.1.1b
+  - openssl=1.0.2p
   - packaging=19.0
   - pandoc=2.7.2
   - pandocfilters=1.4.2
