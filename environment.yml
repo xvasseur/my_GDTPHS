@@ -28,7 +28,7 @@ dependencies:
   - docutils=0.14
   - eigen=3.3.7
   - entrypoints=0.3
-  - expat=2.2.5
+  - expat=2.2.6
   - fastcache=1.1.0
   - fenics=2019.1.0
   - fenics-dijitso=2019.1.0
