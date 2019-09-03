@@ -1,0 +1,5 @@
+fenics
+jupyter
+scipy
+mshr
+assimulo
