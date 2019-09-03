@@ -1,0 +1,9 @@
+name: besancon
+channels:
+  - conda-forge
+dependencies:
+    - fenics
+    - scipy
+    - jupyter
+    - mshr
+    - assimulo
