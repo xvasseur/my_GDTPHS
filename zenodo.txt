@@ -1,0 +1,56 @@
+%
+% Zenodo
+%
+
+Supplementary material for "Numerical approximation of port-Hamiltonian systems for hyperbolic or parabolic partial differential equations":
+-------------------------------
+
+A. Brugnoli, G. Haine, A. Serhani and X. Vasseur
+
+This file contains supplementary Python codes and Jupyter notebooks for the manuscript "Numerical approximation of port-Hamiltonian systems for hyperbolic or parabolic partial differential equations" by A. Brugnoli, G. Haine, A. Serhani and X. Vasseur (version of July, 2020).
+
+Provided notebooks:
+-------------------
+
+1) Wave equation: tutorial_wave_ode.ipynb [Section 5.1 of the manuscript]
+2) Wave equation with mixed boundary conditions: tutorial_wave_dae.ipynb
+3) Mindlin plate problem: tutorial_mindlin.ipynb [Section 5.2 of the manuscript]
+4) Heat equation: tutorial_heat_dae.ipynb [Section 5.3 of the manuscript]
+
+The codes and notebooks rely on a working installation of the FEniCS software and the assimulo package, all available in the public domain:
+- FEniCS: www.fenicsproject.org, version 2019.1.0 
+- assimulo: https://jmodelica.org/assimulo/ version 3.1
+
+A README file is provided for the installation of the dependencies.
+
+This research is supported by the project ANR-16-CE92-0028, entitled "Interconnected Infinite-Dimensional systems for Heterogeneous Media", INFIDHEM, financed by the French National Research Agency (ANR) and the Deutsche Forschungsgemeinschaft (DFG). 
+
+
+%
+% https://zenodo.org/record/3938600
+%
+
+
+@misc{bhsv:20z,
+  author       = {A.~Brugnoli and G.~Haine and A.~Serhani and X.~Vasseur},
+  title        = {Numerical approximation of port-Hamiltonian systems for hyperbolic or parabolic partial differential equations},
+  howpublished = {\url{http://}},
+  note         = {Dataset on Zenodo},
+  year         = 2020,
+}
+
+@dataset{bhsv:20z,
+  author       = {A.~Brugnoli and
+                  G.~Haine and
+                  A.~Serhani and
+                  X.~Vasseur},
+  title        = {{Supplementary material for "Numerical 
+                   approximation of port-Hamiltonian systems for
+                   hyperbolic or parabolic partial differential
+                   equations"}},
+  month        = jul,
+  year         = 2020,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.3938600},
+  url          = {https://doi.org/10.5281/zenodo.3938600}
+}
